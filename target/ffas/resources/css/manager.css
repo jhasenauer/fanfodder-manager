@@ -1,0 +1,13 @@
+body {
+	padding-top: 70px;
+}
+
+.facet-list {
+	font-size: 0.9em;
+	list-style: none outside none;
+	padding: 0;
+}
+
+.results-table {
+	width: 90%;
+}
